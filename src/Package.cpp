@@ -55,51 +55,53 @@ void Package::addChild(Installable* child)
 
 bool Package::install(TransactionContext& tx)
 {
-    // 1. mock failure
     if (isMockFail())
     {
         setState(ComponentState::FAILED);
         return false;
     }
 
-    // 2. already installed
     if (getState() == ComponentState::INSTALLED)
     {
         return true;
     }
 
-    // 3. install children
+    TransactionContext localTx;
+
     for (Installable* child : children)
     {
-        bool ok = child->install(tx);
+        bool ok = child->install(localTx);
 
         if (!ok)
         {
-            for (int i = (int)tx.stateChangedNodes.size() - 1; i >= 0; --i)
+            for (int i = (int)localTx.stateChangedNodes.size() - 1; i >= 0; --i)
             {
-                tx.stateChangedNodes[i]->forcePending();
+                localTx.stateChangedNodes[i]->forcePending();
             }
 
-            for (auto* node : tx.countIncreasedNodes)
+            for (auto* node : localTx.countIncreasedNodes)
             {
                 node->decrementParents();
             }
-
-            tx.stateChangedNodes.clear();
-            tx.countIncreasedNodes.clear();
 
             setState(ComponentState::FAILED);
             return false;
         }
 
         child->incrementParents();
-        tx.countIncreasedNodes.push_back(child);
+        localTx.countIncreasedNodes.push_back(child);
     }
 
-    // 4. success → mark installed
-    setState(ComponentState::INSTALLED);
+    for (auto* node : localTx.stateChangedNodes)
+    {
+        tx.stateChangedNodes.push_back(node);
+    }
+    for (auto* node : localTx.countIncreasedNodes)
+    {
+        tx.countIncreasedNodes.push_back(node);
+    }
 
-    // record this package too
+    setState(ComponentState::INSTALLED);
     tx.stateChangedNodes.push_back(this);
 
     return true;
