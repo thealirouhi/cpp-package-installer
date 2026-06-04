@@ -13,6 +13,41 @@ bool Package::isPackage() const
     return true;
 }
 
+bool Package::hasChild(const std::string& childId) const
+{
+    for (const auto* c : children)
+    {
+        if (c->getId() == childId)
+        {
+            return true;
+        }
+    }
+
+    return false;
+}
+
+bool Package::containsDescendant(const std::string& descendantId) const
+{
+    for (const auto* c : children)
+    {
+        if (c->getId() == descendantId)
+        {
+            return true;
+        }
+
+        if (c->isPackage())
+        {
+            const Package* pkg = static_cast<const Package*>(c);
+            if (pkg->containsDescendant(descendantId))
+            {
+                return true;
+            }
+        }
+    }
+
+    return false;
+}
+
 void Package::addChild(Installable* child)
 {
     children.push_back(child);

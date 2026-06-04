@@ -18,6 +18,10 @@ public:
 
     bool isPackage() const override;
 
+    bool hasChild(const std::string& childId) const;
+
+    bool containsDescendant(const std::string& descendantId) const;
+
     void addChild(Installable* child);
 
     bool install(TransactionContext& tx) override;
