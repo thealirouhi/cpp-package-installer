@@ -1,0 +1,1121 @@
+[OBSERVER] Component M112 changed from PENDING to INSTALLED
+[OBSERVER] Component M157 changed from PENDING to INSTALLED
+[OBSERVER] Component M92 changed from PENDING to INSTALLED
+[OBSERVER] Component M54 changed from PENDING to INSTALLED
+[OBSERVER] Component M110 changed from PENDING to INSTALLED
+[OBSERVER] Component M149 changed from PENDING to INSTALLED
+[OBSERVER] Component P114 changed from PENDING to INSTALLED
+[OBSERVER] Component P84 changed from PENDING to INSTALLED
+[OBSERVER] Component P101 changed from PENDING to INSTALLED
+[OBSERVER] Component P108 changed from PENDING to INSTALLED
+[OBSERVER] Component P23 changed from PENDING to INSTALLED
+[OBSERVER] Component M117 changed from PENDING to INSTALLED
+ERROR: Component M164 is not in a mock fail state
+ERROR: Component P114 is already installed
+ERROR: Invalid command
+[OBSERVER] Component M160 changed from PENDING to INSTALLED
+[OBSERVER] Component M145 changed from PENDING to INSTALLED
+ERROR: Component M173 is not currently installed
+ERROR: Component M90 is not currently installed
+[OBSERVER] Component M164 changed from PENDING to INSTALLED
+[OBSERVER] Component M156 changed from PENDING to INSTALLED
+[OBSERVER] Component M19 changed from PENDING to INSTALLED
+[OBSERVER] Component P97 changed from PENDING to INSTALLED
+[OBSERVER] Component M122 changed from PENDING to INSTALLED
+[OBSERVER] Component P53 changed from PENDING to INSTALLED
+[OBSERVER] Component P11 changed from PENDING to INSTALLED
+[OBSERVER] Component M104 changed from PENDING to INSTALLED
+[OBSERVER] Component M141 changed from PENDING to INSTALLED
+[OBSERVER] Component M11 changed from PENDING to INSTALLED
+[OBSERVER] Component P56 changed from PENDING to INSTALLED
+[OBSERVER] Component P39 changed from PENDING to INSTALLED
+ERROR: Component M111 is not in a mock fail state
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component P114 changed from INSTALLED to PENDING
+[OBSERVER] Component P108 changed from INSTALLED to PENDING
+[OBSERVER] Component P101 changed from INSTALLED to PENDING
+[OBSERVER] Component P97 changed from INSTALLED to PENDING
+[OBSERVER] Component P84 changed from INSTALLED to PENDING
+[OBSERVER] Component P56 changed from INSTALLED to PENDING
+[OBSERVER] Component P53 changed from INSTALLED to PENDING
+[OBSERVER] Component P39 changed from INSTALLED to PENDING
+[OBSERVER] Component P23 changed from INSTALLED to PENDING
+[OBSERVER] Component P11 changed from INSTALLED to PENDING
+[OBSERVER] Component M164 changed from INSTALLED to PENDING
+[OBSERVER] Component M160 changed from INSTALLED to PENDING
+[OBSERVER] Component M157 changed from INSTALLED to PENDING
+[OBSERVER] Component M156 changed from INSTALLED to PENDING
+[OBSERVER] Component M149 changed from INSTALLED to PENDING
+[OBSERVER] Component M145 changed from INSTALLED to PENDING
+[OBSERVER] Component M141 changed from INSTALLED to PENDING
+[OBSERVER] Component M122 changed from INSTALLED to PENDING
+[OBSERVER] Component M117 changed from INSTALLED to PENDING
+[OBSERVER] Component M112 changed from INSTALLED to PENDING
+[OBSERVER] Component M110 changed from INSTALLED to PENDING
+[OBSERVER] Component M104 changed from INSTALLED to PENDING
+[OBSERVER] Component M92 changed from INSTALLED to PENDING
+[OBSERVER] Component M54 changed from INSTALLED to PENDING
+[OBSERVER] Component M19 changed from INSTALLED to PENDING
+[OBSERVER] Component M11 changed from INSTALLED to PENDING
+[OBSERVER] Component M115 changed from PENDING to INSTALLED
+ERROR: Invalid command
+ERROR: Component M151 is not currently installed
+[OBSERVER] Component M49 changed from PENDING to INSTALLED
+[OBSERVER] Component M88 changed from PENDING to INSTALLED
+[OBSERVER] Component M168 changed from PENDING to INSTALLED
+[OBSERVER] Component M170 changed from PENDING to INSTALLED
+[OBSERVER] Component M111 changed from PENDING to INSTALLED
+[OBSERVER] Component P110 changed from PENDING to INSTALLED
+[OBSERVER] Component P91 changed from PENDING to INSTALLED
+ERROR: Component M138 is not currently installed
+[OBSERVER] Component M169 changed from PENDING to INSTALLED
+[OBSERVER] Component M55 changed from PENDING to INSTALLED
+ERROR: Component M146 is not in a mock fail state
+ERROR: Component P113 is not in a mock fail state
+ERROR: Component M67 is not currently installed
+ERROR: Component M75 is not currently installed
+ERROR: Cannot attach to a module
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M184 changed from PENDING to INSTALLED
+[OBSERVER] Component M77 changed from PENDING to INSTALLED
+[OBSERVER] Component M17 changed from PENDING to INSTALLED
+[OBSERVER] Component M78 changed from PENDING to INSTALLED
+[OBSERVER] Component P25 changed from PENDING to INSTALLED
+[OBSERVER] Component M7 changed from PENDING to INSTALLED
+[OBSERVER] Component P110 changed from INSTALLED to PENDING
+[OBSERVER] Component P91 changed from INSTALLED to PENDING
+[OBSERVER] Component P25 changed from INSTALLED to PENDING
+[OBSERVER] Component M184 changed from INSTALLED to PENDING
+[OBSERVER] Component M170 changed from INSTALLED to PENDING
+[OBSERVER] Component M169 changed from INSTALLED to PENDING
+[OBSERVER] Component M168 changed from INSTALLED to PENDING
+[OBSERVER] Component M115 changed from INSTALLED to PENDING
+[OBSERVER] Component M111 changed from INSTALLED to PENDING
+[OBSERVER] Component M88 changed from INSTALLED to PENDING
+[OBSERVER] Component M78 changed from INSTALLED to PENDING
+[OBSERVER] Component M77 changed from INSTALLED to PENDING
+[OBSERVER] Component M55 changed from INSTALLED to PENDING
+[OBSERVER] Component M49 changed from INSTALLED to PENDING
+[OBSERVER] Component M17 changed from INSTALLED to PENDING
+[OBSERVER] Component M7 changed from INSTALLED to PENDING
+ERROR: Component P39 is not in a mock fail state
+[OBSERVER] Component M164 changed from PENDING to INSTALLED
+[OBSERVER] Component M13 changed from PENDING to INSTALLED
+[OBSERVER] Component P3 changed from PENDING to INSTALLED
+ERROR: Component M16 is not in a mock fail state
+ERROR: Component GHOST_P does not exist
+ERROR: Component P35 is not currently installed
+ERROR: Component P9 is already set to fail
+ERROR: Component with ID M152 already exists
+ERROR: Component M19 is not currently installed
+ERROR: Component M146 is not in a mock fail state
+ERROR: Component M40 is not in a mock fail state
+ERROR: Invalid command
+[OBSERVER] Component M120 changed from PENDING to INSTALLED
+[OBSERVER] Component M138 changed from PENDING to INSTALLED
+[OBSERVER] Component P95 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M37 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+ERROR: Component P48 is not currently installed
+[OBSERVER] Component P28 changed from PENDING to FAILED
+[OBSERVER] Component M152 changed from PENDING to INSTALLED
+ERROR: Component M23 is not currently installed
+ERROR: Cannot attach to a module
+[OBSERVER] Component M144 changed from PENDING to INSTALLED
+ERROR: Component M81 is not currently installed
+ERROR: Component M101 is not currently installed
+[OBSERVER] Component M184 changed from PENDING to INSTALLED
+[OBSERVER] Component M21 changed from PENDING to INSTALLED
+[OBSERVER] Component M160 changed from PENDING to INSTALLED
+[OBSERVER] Component M128 changed from PENDING to INSTALLED
+[OBSERVER] Component P93 changed from PENDING to INSTALLED
+ERROR: Component M28 is already set to fail
+[OBSERVER] Component M98 changed from PENDING to FAILED
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component P121 changed from PENDING to INSTALLED
+[OBSERVER] Component P117 changed from PENDING to INSTALLED
+[OBSERVER] Component M50 changed from PENDING to INSTALLED
+[OBSERVER] Component M43 changed from PENDING to INSTALLED
+[OBSERVER] Component M67 changed from PENDING to INSTALLED
+[OBSERVER] Component P88 changed from PENDING to INSTALLED
+[OBSERVER] Component M1 changed from PENDING to INSTALLED
+[OBSERVER] Component M183 changed from PENDING to INSTALLED
+[OBSERVER] Component P121 changed from INSTALLED to PENDING
+[OBSERVER] Component P117 changed from INSTALLED to PENDING
+[OBSERVER] Component P95 changed from INSTALLED to PENDING
+[OBSERVER] Component P93 changed from INSTALLED to PENDING
+[OBSERVER] Component P88 changed from INSTALLED to PENDING
+[OBSERVER] Component P28 changed from FAILED to PENDING
+[OBSERVER] Component P3 changed from INSTALLED to PENDING
+[OBSERVER] Component M184 changed from INSTALLED to PENDING
+[OBSERVER] Component M183 changed from INSTALLED to PENDING
+[OBSERVER] Component M164 changed from INSTALLED to PENDING
+[OBSERVER] Component M160 changed from INSTALLED to PENDING
+[OBSERVER] Component M152 changed from INSTALLED to PENDING
+[OBSERVER] Component M144 changed from INSTALLED to PENDING
+[OBSERVER] Component M138 changed from INSTALLED to PENDING
+[OBSERVER] Component M128 changed from INSTALLED to PENDING
+[OBSERVER] Component M120 changed from INSTALLED to PENDING
+[OBSERVER] Component M98 changed from FAILED to PENDING
+[OBSERVER] Component M67 changed from INSTALLED to PENDING
+[OBSERVER] Component M50 changed from INSTALLED to PENDING
+[OBSERVER] Component M43 changed from INSTALLED to PENDING
+[OBSERVER] Component M37 changed from INSTALLED to PENDING
+[OBSERVER] Component M21 changed from INSTALLED to PENDING
+[OBSERVER] Component M13 changed from INSTALLED to PENDING
+[OBSERVER] Component M1 changed from INSTALLED to PENDING
+[OBSERVER] Component M94 changed from PENDING to INSTALLED
+ERROR: Component M73 is not currently installed
+[OBSERVER] Component M153 changed from PENDING to INSTALLED
+[OBSERVER] Component M16 changed from PENDING to INSTALLED
+[OBSERVER] Component M160 changed from PENDING to INSTALLED
+[OBSERVER] Component M98 changed from PENDING to INSTALLED
+[OBSERVER] Component M87 changed from PENDING to INSTALLED
+[OBSERVER] Component P89 changed from PENDING to INSTALLED
+[OBSERVER] Component M54 changed from PENDING to INSTALLED
+[OBSERVER] Component M126 changed from PENDING to INSTALLED
+[OBSERVER] Component M5 changed from PENDING to INSTALLED
+[OBSERVER] Component M154 changed from PENDING to INSTALLED
+[OBSERVER] Component M92 changed from PENDING to INSTALLED
+[OBSERVER] Component M128 changed from PENDING to INSTALLED
+[OBSERVER] Component P63 changed from PENDING to INSTALLED
+ERROR: Component P63 is already installed
+ERROR: Component M184 is not in a mock fail state
+[OBSERVER] Component M89 changed from PENDING to INSTALLED
+[OBSERVER] Component M84 changed from PENDING to FAILED
+[OBSERVER] Component P82 changed from PENDING to FAILED
+[OBSERVER] Component P13 changed from PENDING to FAILED
+[OBSERVER] Component M174 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+ERROR: Component P1 is not in a mock fail state
+ERROR: Component with ID M79 already exists
+ERROR: Invalid command
+[OBSERVER] Component P89 changed from INSTALLED to PENDING
+[OBSERVER] Component P82 changed from FAILED to PENDING
+[OBSERVER] Component P63 changed from INSTALLED to PENDING
+[OBSERVER] Component P13 changed from FAILED to PENDING
+[OBSERVER] Component M174 changed from INSTALLED to PENDING
+[OBSERVER] Component M160 changed from INSTALLED to PENDING
+[OBSERVER] Component M154 changed from INSTALLED to PENDING
+[OBSERVER] Component M153 changed from INSTALLED to PENDING
+[OBSERVER] Component M128 changed from INSTALLED to PENDING
+[OBSERVER] Component M126 changed from INSTALLED to PENDING
+[OBSERVER] Component M98 changed from INSTALLED to PENDING
+[OBSERVER] Component M94 changed from INSTALLED to PENDING
+[OBSERVER] Component M92 changed from INSTALLED to PENDING
+[OBSERVER] Component M89 changed from INSTALLED to PENDING
+[OBSERVER] Component M87 changed from INSTALLED to PENDING
+[OBSERVER] Component M84 changed from FAILED to PENDING
+[OBSERVER] Component M54 changed from INSTALLED to PENDING
+[OBSERVER] Component M16 changed from INSTALLED to PENDING
+[OBSERVER] Component M5 changed from INSTALLED to PENDING
+ERROR: Invalid command
+ERROR: Component with ID M155 already exists
+[OBSERVER] Component M139 changed from PENDING to INSTALLED
+[OBSERVER] Component P79 changed from PENDING to INSTALLED
+[OBSERVER] Component M130 changed from PENDING to INSTALLED
+ERROR: Component M69 is not currently installed
+[OBSERVER] Component M51 changed from PENDING to INSTALLED
+[OBSERVER] Component M174 changed from PENDING to INSTALLED
+[OBSERVER] Component M61 changed from PENDING to FAILED
+[OBSERVER] Component M174 changed from INSTALLED to PENDING
+[OBSERVER] Component M51 changed from INSTALLED to PENDING
+[OBSERVER] Component P58 changed from PENDING to FAILED
+ERROR: Component with ID M56 already exists
+[OBSERVER] Component M115 changed from PENDING to INSTALLED
+[OBSERVER] Component M41 changed from PENDING to INSTALLED
+[OBSERVER] Component M37 changed from PENDING to INSTALLED
+[OBSERVER] Component P65 changed from PENDING to INSTALLED
+[OBSERVER] Component M125 changed from PENDING to FAILED
+[OBSERVER] Component P65 changed from INSTALLED to PENDING
+[OBSERVER] Component M37 changed from INSTALLED to PENDING
+[OBSERVER] Component M41 changed from INSTALLED to PENDING
+[OBSERVER] Component P33 changed from PENDING to FAILED
+ERROR: Component M66 is not currently installed
+ERROR: Component with ID M123 already exists
+[OBSERVER] Component M135 changed from PENDING to INSTALLED
+[OBSERVER] Component P79 changed from INSTALLED to PENDING
+[OBSERVER] Component P58 changed from FAILED to PENDING
+[OBSERVER] Component P33 changed from FAILED to PENDING
+[OBSERVER] Component M139 changed from INSTALLED to PENDING
+[OBSERVER] Component M135 changed from INSTALLED to PENDING
+[OBSERVER] Component M130 changed from INSTALLED to PENDING
+[OBSERVER] Component M125 changed from FAILED to PENDING
+[OBSERVER] Component M115 changed from INSTALLED to PENDING
+[OBSERVER] Component M61 changed from FAILED to PENDING
+[OBSERVER] Component M111 changed from PENDING to INSTALLED
+[OBSERVER] Component M47 changed from PENDING to INSTALLED
+[OBSERVER] Component M170 changed from PENDING to INSTALLED
+ERROR: Component M39 is not in a mock fail state
+ERROR: Component M87 is not currently installed
+[OBSERVER] Component M87 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M103 changed from PENDING to INSTALLED
+ERROR: Component with ID M1 already exists
+ERROR: Invalid command
+[OBSERVER] Component M170 changed from INSTALLED to PENDING
+[OBSERVER] Component M111 changed from INSTALLED to PENDING
+[OBSERVER] Component M103 changed from INSTALLED to PENDING
+[OBSERVER] Component M87 changed from INSTALLED to PENDING
+[OBSERVER] Component M47 changed from INSTALLED to PENDING
+ERROR: Component P41 is not in a mock fail state
+[OBSERVER] Component M182 changed from PENDING to INSTALLED
+[OBSERVER] Component M175 changed from PENDING to INSTALLED
+[OBSERVER] Component M161 changed from PENDING to INSTALLED
+[OBSERVER] Component M123 changed from PENDING to INSTALLED
+[OBSERVER] Component P69 changed from PENDING to INSTALLED
+[OBSERVER] Component M101 changed from PENDING to INSTALLED
+[OBSERVER] Component P52 changed from PENDING to INSTALLED
+ERROR: Component M107 is not in a mock fail state
+[OBSERVER] Component M21 changed from PENDING to INSTALLED
+[OBSERVER] Component M98 changed from PENDING to INSTALLED
+[OBSERVER] Component P87 changed from PENDING to INSTALLED
+ERROR: Component P13 is not in a mock fail state
+[OBSERVER] Component M135 changed from PENDING to INSTALLED
+[OBSERVER] Component P105 changed from PENDING to INSTALLED
+[OBSERVER] Component M156 changed from PENDING to INSTALLED
+[OBSERVER] Component M153 changed from PENDING to INSTALLED
+[OBSERVER] Component M43 changed from PENDING to INSTALLED
+[OBSERVER] Component M149 changed from PENDING to INSTALLED
+[OBSERVER] Component M15 changed from PENDING to INSTALLED
+[OBSERVER] Component M152 changed from PENDING to INSTALLED
+[OBSERVER] Component P94 changed from PENDING to INSTALLED
+[OBSERVER] Component P119 changed from PENDING to INSTALLED
+[OBSERVER] Component P54 changed from PENDING to INSTALLED
+ERROR: Component P12 is not in a mock fail state
+[OBSERVER] Component M16 changed from PENDING to INSTALLED
+[OBSERVER] Component M160 changed from PENDING to INSTALLED
+[OBSERVER] Component M87 changed from PENDING to INSTALLED
+[OBSERVER] Component P89 changed from PENDING to INSTALLED
+[OBSERVER] Component M11 changed from PENDING to INSTALLED
+[OBSERVER] Component M58 changed from PENDING to INSTALLED
+ERROR: Invalid command
+[OBSERVER] Component M23 changed from PENDING to FAILED
+[OBSERVER] Component P119 changed from INSTALLED to PENDING
+[OBSERVER] Component P105 changed from INSTALLED to PENDING
+[OBSERVER] Component P94 changed from INSTALLED to PENDING
+[OBSERVER] Component P89 changed from INSTALLED to PENDING
+[OBSERVER] Component P87 changed from INSTALLED to PENDING
+[OBSERVER] Component P69 changed from INSTALLED to PENDING
+[OBSERVER] Component P54 changed from INSTALLED to PENDING
+[OBSERVER] Component P52 changed from INSTALLED to PENDING
+[OBSERVER] Component M182 changed from INSTALLED to PENDING
+[OBSERVER] Component M175 changed from INSTALLED to PENDING
+[OBSERVER] Component M161 changed from INSTALLED to PENDING
+[OBSERVER] Component M160 changed from INSTALLED to PENDING
+[OBSERVER] Component M156 changed from INSTALLED to PENDING
+[OBSERVER] Component M153 changed from INSTALLED to PENDING
+[OBSERVER] Component M152 changed from INSTALLED to PENDING
+[OBSERVER] Component M149 changed from INSTALLED to PENDING
+[OBSERVER] Component M135 changed from INSTALLED to PENDING
+[OBSERVER] Component M123 changed from INSTALLED to PENDING
+[OBSERVER] Component M101 changed from INSTALLED to PENDING
+[OBSERVER] Component M98 changed from INSTALLED to PENDING
+[OBSERVER] Component M87 changed from INSTALLED to PENDING
+[OBSERVER] Component M58 changed from INSTALLED to PENDING
+[OBSERVER] Component M43 changed from INSTALLED to PENDING
+[OBSERVER] Component M23 changed from FAILED to PENDING
+[OBSERVER] Component M21 changed from INSTALLED to PENDING
+[OBSERVER] Component M16 changed from INSTALLED to PENDING
+[OBSERVER] Component M15 changed from INSTALLED to PENDING
+[OBSERVER] Component M11 changed from INSTALLED to PENDING
+[OBSERVER] Component M122 changed from PENDING to INSTALLED
+[OBSERVER] Component P28 changed from PENDING to INSTALLED
+[OBSERVER] Component M53 changed from PENDING to INSTALLED
+[OBSERVER] Component P102 changed from PENDING to INSTALLED
+[OBSERVER] Component P113 changed from PENDING to INSTALLED
+[OBSERVER] Component M48 changed from PENDING to INSTALLED
+[OBSERVER] Component M16 changed from PENDING to INSTALLED
+[OBSERVER] Component P121 changed from PENDING to INSTALLED
+[OBSERVER] Component M55 changed from PENDING to INSTALLED
+[OBSERVER] Component M159 changed from PENDING to INSTALLED
+[OBSERVER] Component P68 changed from PENDING to INSTALLED
+ERROR: Component M28 is not currently installed
+[OBSERVER] Component M30 changed from PENDING to INSTALLED
+[OBSERVER] Component P121 changed from INSTALLED to PENDING
+[OBSERVER] Component P113 changed from INSTALLED to PENDING
+[OBSERVER] Component P102 changed from INSTALLED to PENDING
+[OBSERVER] Component P68 changed from INSTALLED to PENDING
+[OBSERVER] Component P28 changed from INSTALLED to PENDING
+[OBSERVER] Component M159 changed from INSTALLED to PENDING
+[OBSERVER] Component M122 changed from INSTALLED to PENDING
+[OBSERVER] Component M55 changed from INSTALLED to PENDING
+[OBSERVER] Component M53 changed from INSTALLED to PENDING
+[OBSERVER] Component M48 changed from INSTALLED to PENDING
+[OBSERVER] Component M30 changed from INSTALLED to PENDING
+[OBSERVER] Component M16 changed from INSTALLED to PENDING
+[OBSERVER] Component M127 changed from PENDING to INSTALLED
+[OBSERVER] Component M111 changed from PENDING to INSTALLED
+ERROR: Component M118 is not currently installed
+ERROR: Cannot attach to a module
+[OBSERVER] Component M126 changed from PENDING to INSTALLED
+[OBSERVER] Component M145 changed from PENDING to INSTALLED
+[OBSERVER] Component M33 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M145 changed from INSTALLED to PENDING
+[OBSERVER] Component M127 changed from INSTALLED to PENDING
+[OBSERVER] Component M126 changed from INSTALLED to PENDING
+[OBSERVER] Component M111 changed from INSTALLED to PENDING
+[OBSERVER] Component M33 changed from INSTALLED to PENDING
+[OBSERVER] Component M110 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+[OBSERVER] Component M183 changed from PENDING to INSTALLED
+ERROR: Component M180 is not currently installed
+ERROR: Component M75 is not currently installed
+ERROR: Component P75 is not currently installed
+ERROR: Component M26 is not in a mock fail state
+[OBSERVER] Component M183 changed from INSTALLED to PENDING
+[OBSERVER] Component M110 changed from INSTALLED to PENDING
+ERROR: Component M100 is not currently installed
+[OBSERVER] Component M139 changed from PENDING to INSTALLED
+[OBSERVER] Component M25 changed from PENDING to INSTALLED
+[OBSERVER] Component P51 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+[OBSERVER] Component M48 changed from PENDING to INSTALLED
+[OBSERVER] Component M16 changed from PENDING to INSTALLED
+[OBSERVER] Component P121 changed from PENDING to INSTALLED
+[OBSERVER] Component M55 changed from PENDING to INSTALLED
+[OBSERVER] Component M159 changed from PENDING to INSTALLED
+[OBSERVER] Component P68 changed from PENDING to INSTALLED
+[OBSERVER] Component M84 changed from PENDING to INSTALLED
+[OBSERVER] Component M147 changed from PENDING to INSTALLED
+ERROR: Component M9 is not in a mock fail state
+ERROR: Component M177 is not currently installed
+[OBSERVER] Component P79 changed from PENDING to INSTALLED
+[OBSERVER] Component M94 changed from PENDING to INSTALLED
+[OBSERVER] Component P71 changed from PENDING to INSTALLED
+ERROR: Component M28 is not currently installed
+[OBSERVER] Component M52 changed from PENDING to INSTALLED
+ERROR: Component with ID M162 already exists
+[OBSERVER] Component M1 changed from PENDING to INSTALLED
+ERROR: Component M148 is not currently installed
+[OBSERVER] Component M41 changed from PENDING to INSTALLED
+[OBSERVER] Component M37 changed from PENDING to INSTALLED
+[OBSERVER] Component P65 changed from PENDING to INSTALLED
+[OBSERVER] Component M125 changed from PENDING to INSTALLED
+[OBSERVER] Component M182 changed from PENDING to INSTALLED
+[OBSERVER] Component P33 changed from PENDING to INSTALLED
+[OBSERVER] Component M86 changed from PENDING to INSTALLED
+ERROR: Component M135 is not currently installed
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M142 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+[OBSERVER] Component P117 changed from PENDING to INSTALLED
+ERROR: Component M78 is not in a mock fail state
+ERROR: Component M126 is not currently installed
+[OBSERVER] Component M99 changed from PENDING to INSTALLED
+ERROR: Component P33 is already installed
+[OBSERVER] Component M100 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+[OBSERVER] Component P121 changed from INSTALLED to PENDING
+[OBSERVER] Component P117 changed from INSTALLED to PENDING
+[OBSERVER] Component P79 changed from INSTALLED to PENDING
+[OBSERVER] Component P71 changed from INSTALLED to PENDING
+[OBSERVER] Component P68 changed from INSTALLED to PENDING
+[OBSERVER] Component P65 changed from INSTALLED to PENDING
+[OBSERVER] Component P51 changed from INSTALLED to PENDING
+[OBSERVER] Component P33 changed from INSTALLED to PENDING
+[OBSERVER] Component M182 changed from INSTALLED to PENDING
+[OBSERVER] Component M159 changed from INSTALLED to PENDING
+[OBSERVER] Component M147 changed from INSTALLED to PENDING
+[OBSERVER] Component M142 changed from INSTALLED to PENDING
+[OBSERVER] Component M139 changed from INSTALLED to PENDING
+[OBSERVER] Component M125 changed from INSTALLED to PENDING
+[OBSERVER] Component M100 changed from INSTALLED to PENDING
+[OBSERVER] Component M99 changed from INSTALLED to PENDING
+[OBSERVER] Component M94 changed from INSTALLED to PENDING
+[OBSERVER] Component M86 changed from INSTALLED to PENDING
+[OBSERVER] Component M84 changed from INSTALLED to PENDING
+[OBSERVER] Component M55 changed from INSTALLED to PENDING
+[OBSERVER] Component M52 changed from INSTALLED to PENDING
+[OBSERVER] Component M48 changed from INSTALLED to PENDING
+[OBSERVER] Component M41 changed from INSTALLED to PENDING
+[OBSERVER] Component M37 changed from INSTALLED to PENDING
+[OBSERVER] Component M25 changed from INSTALLED to PENDING
+[OBSERVER] Component M16 changed from INSTALLED to PENDING
+[OBSERVER] Component M1 changed from INSTALLED to PENDING
+ERROR: Component M127 is not currently installed
+[OBSERVER] Component P121 changed from PENDING to INSTALLED
+ERROR: Component P40 is not in a mock fail state
+ERROR: Component M100 is not currently installed
+[OBSERVER] Component P124 changed from PENDING to INSTALLED
+ERROR: Component P118 is not in a mock fail state
+[OBSERVER] Component M46 changed from PENDING to INSTALLED
+ERROR: Component P111 is not in a mock fail state
+[OBSERVER] Component M87 changed from PENDING to INSTALLED
+[OBSERVER] Component M21 changed from PENDING to INSTALLED
+[OBSERVER] Component M98 changed from PENDING to INSTALLED
+[OBSERVER] Component P87 changed from PENDING to INSTALLED
+[OBSERVER] Component M48 changed from PENDING to INSTALLED
+[OBSERVER] Component P40 changed from PENDING to INSTALLED
+ERROR: Component with ID M98 already exists
+ERROR: Component P5 is not in a mock fail state
+ERROR: Component M157 is not currently installed
+ERROR: Component with ID M9 already exists
+ERROR: Component P49 is not in a mock fail state
+ERROR: Cannot attach to a module
+ERROR: Component P118 is not currently installed
+ERROR: Component P6 is not currently installed
+ERROR: Component P36 is not currently installed
+[OBSERVER] Component M152 changed from PENDING to INSTALLED
+ERROR: Component M56 is not in a mock fail state
+ERROR: Component P31 is not currently installed
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component P114 changed from PENDING to INSTALLED
+ERROR: Component P25 is not in a mock fail state
+ERROR: Component M89 is not currently installed
+ERROR: Component M43 is not in a mock fail state
+ERROR: Cannot attach to a module
+[OBSERVER] Component P124 changed from INSTALLED to PENDING
+[OBSERVER] Component P121 changed from INSTALLED to PENDING
+[OBSERVER] Component P114 changed from INSTALLED to PENDING
+[OBSERVER] Component P87 changed from INSTALLED to PENDING
+[OBSERVER] Component P40 changed from INSTALLED to PENDING
+[OBSERVER] Component M152 changed from INSTALLED to PENDING
+[OBSERVER] Component M98 changed from INSTALLED to PENDING
+[OBSERVER] Component M87 changed from INSTALLED to PENDING
+[OBSERVER] Component M48 changed from INSTALLED to PENDING
+[OBSERVER] Component M46 changed from INSTALLED to PENDING
+[OBSERVER] Component M21 changed from INSTALLED to PENDING
+[OBSERVER] Component M29 changed from PENDING to INSTALLED
+[OBSERVER] Component M60 changed from PENDING to INSTALLED
+[OBSERVER] Component M152 changed from PENDING to INSTALLED
+[OBSERVER] Component M19 changed from PENDING to INSTALLED
+[OBSERVER] Component M90 changed from PENDING to INSTALLED
+[OBSERVER] Component M176 changed from PENDING to INSTALLED
+[OBSERVER] Component P80 changed from PENDING to INSTALLED
+[OBSERVER] Component P50 changed from PENDING to INSTALLED
+[OBSERVER] Component M27 changed from PENDING to INSTALLED
+[OBSERVER] Component M162 changed from PENDING to INSTALLED
+[OBSERVER] Component P34 changed from PENDING to INSTALLED
+[OBSERVER] Component P101 changed from PENDING to INSTALLED
+[OBSERVER] Component P24 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M153 changed from PENDING to FAILED
+[OBSERVER] Component P89 changed from PENDING to FAILED
+[OBSERVER] Component M29 changed from INSTALLED to PENDING
+[OBSERVER] Component M47 changed from PENDING to INSTALLED
+[OBSERVER] Component M16 changed from PENDING to INSTALLED
+[OBSERVER] Component M108 changed from PENDING to INSTALLED
+[OBSERVER] Component M133 changed from PENDING to INSTALLED
+[OBSERVER] Component M163 changed from PENDING to INSTALLED
+[OBSERVER] Component M111 changed from PENDING to INSTALLED
+[OBSERVER] Component P62 changed from PENDING to INSTALLED
+[OBSERVER] Component M5 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+ERROR: Component M34 is not currently installed
+[OBSERVER] Component M146 changed from PENDING to INSTALLED
+[OBSERVER] Component M174 changed from PENDING to INSTALLED
+[OBSERVER] Component P61 changed from PENDING to INSTALLED
+ERROR: Component P50 is not in a mock fail state
+[OBSERVER] Component M129 changed from PENDING to INSTALLED
+[OBSERVER] Component M83 changed from PENDING to INSTALLED
+ERROR: Component M60 is already installed
+[OBSERVER] Component M30 changed from PENDING to INSTALLED
+[OBSERVER] Component M30 changed from INSTALLED to PENDING
+[OBSERVER] Component P70 changed from PENDING to FAILED
+ERROR: Component M93 is not currently installed
+[OBSERVER] Component M64 changed from PENDING to INSTALLED
+[OBSERVER] Component M21 changed from PENDING to INSTALLED
+[OBSERVER] Component M98 changed from PENDING to INSTALLED
+[OBSERVER] Component P87 changed from PENDING to INSTALLED
+[OBSERVER] Component M22 changed from PENDING to FAILED
+[OBSERVER] Component M185 changed from PENDING to INSTALLED
+[OBSERVER] Component M65 changed from PENDING to INSTALLED
+[OBSERVER] Component M138 changed from PENDING to INSTALLED
+[OBSERVER] Component P1 changed from PENDING to INSTALLED
+ERROR: Component M49 is not in a mock fail state
+[OBSERVER] Component M180 changed from PENDING to INSTALLED
+ERROR: Component M51 is not currently installed
+[OBSERVER] Component M151 changed from PENDING to INSTALLED
+[OBSERVER] Component M128 changed from PENDING to INSTALLED
+[OBSERVER] Component M76 changed from PENDING to INSTALLED
+[OBSERVER] Component M85 changed from PENDING to INSTALLED
+[OBSERVER] Component P66 changed from PENDING to INSTALLED
+[OBSERVER] Component M172 changed from PENDING to INSTALLED
+[OBSERVER] Component P4 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+ERROR: Component M129 is already installed
+[OBSERVER] Component M17 changed from PENDING to INSTALLED
+[OBSERVER] Component M130 changed from PENDING to INSTALLED
+ERROR: Component M176 is required by another package
+[OBSERVER] Component M3 changed from PENDING to INSTALLED
+[OBSERVER] Component M106 changed from PENDING to INSTALLED
+[OBSERVER] Component M57 changed from PENDING to INSTALLED
+[OBSERVER] Component P45 changed from PENDING to INSTALLED
+ERROR: Component M66 is not currently installed
+[OBSERVER] Component M165 changed from PENDING to INSTALLED
+ERROR: Component M61 is not currently installed
+ERROR: Component M17 is already installed
+[OBSERVER] Component M140 changed from PENDING to FAILED
+ERROR: Component M98 is already installed
+ERROR: Component M90 is not in a mock fail state
+ERROR: Component M163 is already installed
+ERROR: Component P80 is already installed
+[OBSERVER] Component M141 changed from PENDING to INSTALLED
+[OBSERVER] Component P97 changed from PENDING to FAILED
+[OBSERVER] Component M141 changed from INSTALLED to PENDING
+[OBSERVER] Component P56 changed from PENDING to FAILED
+ERROR: Component M37 is not currently installed
+[OBSERVER] Component P101 changed from INSTALLED to PENDING
+[OBSERVER] Component P97 changed from FAILED to PENDING
+[OBSERVER] Component P89 changed from FAILED to PENDING
+[OBSERVER] Component P87 changed from INSTALLED to PENDING
+[OBSERVER] Component P80 changed from INSTALLED to PENDING
+[OBSERVER] Component P70 changed from FAILED to PENDING
+[OBSERVER] Component P66 changed from INSTALLED to PENDING
+[OBSERVER] Component P62 changed from INSTALLED to PENDING
+[OBSERVER] Component P61 changed from INSTALLED to PENDING
+[OBSERVER] Component P56 changed from FAILED to PENDING
+[OBSERVER] Component P50 changed from INSTALLED to PENDING
+[OBSERVER] Component P45 changed from INSTALLED to PENDING
+[OBSERVER] Component P34 changed from INSTALLED to PENDING
+[OBSERVER] Component P24 changed from INSTALLED to PENDING
+[OBSERVER] Component P4 changed from INSTALLED to PENDING
+[OBSERVER] Component P1 changed from INSTALLED to PENDING
+[OBSERVER] Component M185 changed from INSTALLED to PENDING
+[OBSERVER] Component M180 changed from INSTALLED to PENDING
+[OBSERVER] Component M176 changed from INSTALLED to PENDING
+[OBSERVER] Component M174 changed from INSTALLED to PENDING
+[OBSERVER] Component M172 changed from INSTALLED to PENDING
+[OBSERVER] Component M165 changed from INSTALLED to PENDING
+[OBSERVER] Component M163 changed from INSTALLED to PENDING
+[OBSERVER] Component M162 changed from INSTALLED to PENDING
+[OBSERVER] Component M153 changed from FAILED to PENDING
+[OBSERVER] Component M152 changed from INSTALLED to PENDING
+[OBSERVER] Component M151 changed from INSTALLED to PENDING
+[OBSERVER] Component M146 changed from INSTALLED to PENDING
+[OBSERVER] Component M140 changed from FAILED to PENDING
+[OBSERVER] Component M138 changed from INSTALLED to PENDING
+[OBSERVER] Component M133 changed from INSTALLED to PENDING
+[OBSERVER] Component M130 changed from INSTALLED to PENDING
+[OBSERVER] Component M129 changed from INSTALLED to PENDING
+[OBSERVER] Component M128 changed from INSTALLED to PENDING
+[OBSERVER] Component M111 changed from INSTALLED to PENDING
+[OBSERVER] Component M108 changed from INSTALLED to PENDING
+[OBSERVER] Component M106 changed from INSTALLED to PENDING
+[OBSERVER] Component M98 changed from INSTALLED to PENDING
+[OBSERVER] Component M90 changed from INSTALLED to PENDING
+[OBSERVER] Component M85 changed from INSTALLED to PENDING
+[OBSERVER] Component M83 changed from INSTALLED to PENDING
+[OBSERVER] Component M76 changed from INSTALLED to PENDING
+[OBSERVER] Component M65 changed from INSTALLED to PENDING
+[OBSERVER] Component M64 changed from INSTALLED to PENDING
+[OBSERVER] Component M60 changed from INSTALLED to PENDING
+[OBSERVER] Component M57 changed from INSTALLED to PENDING
+[OBSERVER] Component M47 changed from INSTALLED to PENDING
+[OBSERVER] Component M27 changed from INSTALLED to PENDING
+[OBSERVER] Component M22 changed from FAILED to PENDING
+[OBSERVER] Component M21 changed from INSTALLED to PENDING
+[OBSERVER] Component M19 changed from INSTALLED to PENDING
+[OBSERVER] Component M17 changed from INSTALLED to PENDING
+[OBSERVER] Component M16 changed from INSTALLED to PENDING
+[OBSERVER] Component M5 changed from INSTALLED to PENDING
+[OBSERVER] Component M3 changed from INSTALLED to PENDING
+[OBSERVER] Component M163 changed from PENDING to INSTALLED
+[OBSERVER] Component P118 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+ERROR: Component P14 is not in a mock fail state
+ERROR: Component P7 is not in a mock fail state
+ERROR: Component P118 is not in a mock fail state
+ERROR: Cannot attach to a module
+ERROR: Cannot attach to a module
+[OBSERVER] Component M81 changed from PENDING to INSTALLED
+ERROR: Component M83 is not currently installed
+ERROR: Cannot attach to a module
+ERROR: Component with ID M132 already exists
+[OBSERVER] Component M34 changed from PENDING to INSTALLED
+ERROR: Component P35 is already set to fail
+ERROR: Component M180 is not currently installed
+[OBSERVER] Component M86 changed from PENDING to FAILED
+[OBSERVER] Component M159 changed from PENDING to INSTALLED
+[OBSERVER] Component M147 changed from PENDING to FAILED
+ERROR: Component M101 is not in a mock fail state
+[OBSERVER] Component P122 changed from PENDING to INSTALLED
+[OBSERVER] Component M145 changed from PENDING to INSTALLED
+[OBSERVER] Component M12 changed from PENDING to INSTALLED
+[OBSERVER] Component M64 changed from PENDING to INSTALLED
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+[OBSERVER] Component P15 changed from PENDING to INSTALLED
+ERROR: Component M143 is not currently installed
+[OBSERVER] Component P122 changed from INSTALLED to PENDING
+[OBSERVER] Component P118 changed from INSTALLED to PENDING
+[OBSERVER] Component P15 changed from INSTALLED to PENDING
+[OBSERVER] Component M163 changed from INSTALLED to PENDING
+[OBSERVER] Component M159 changed from INSTALLED to PENDING
+[OBSERVER] Component M147 changed from FAILED to PENDING
+[OBSERVER] Component M145 changed from INSTALLED to PENDING
+[OBSERVER] Component M86 changed from FAILED to PENDING
+[OBSERVER] Component M81 changed from INSTALLED to PENDING
+[OBSERVER] Component M64 changed from INSTALLED to PENDING
+[OBSERVER] Component M34 changed from INSTALLED to PENDING
+[OBSERVER] Component M12 changed from INSTALLED to PENDING
+[OBSERVER] Component M6 changed from INSTALLED to PENDING
+[OBSERVER] Component M85 changed from PENDING to INSTALLED
+[OBSERVER] Component M121 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M185 changed from PENDING to INSTALLED
+[OBSERVER] Component M29 changed from PENDING to INSTALLED
+[OBSERVER] Component M133 changed from PENDING to INSTALLED
+[OBSERVER] Component M130 changed from PENDING to INSTALLED
+[OBSERVER] Component P109 changed from PENDING to FAILED
+[OBSERVER] Component M130 changed from INSTALLED to PENDING
+[OBSERVER] Component M133 changed from INSTALLED to PENDING
+[OBSERVER] Component P59 changed from PENDING to FAILED
+ERROR: Invalid command
+[OBSERVER] Component P109 changed from FAILED to PENDING
+[OBSERVER] Component P59 changed from FAILED to PENDING
+[OBSERVER] Component M185 changed from INSTALLED to PENDING
+[OBSERVER] Component M121 changed from INSTALLED to PENDING
+[OBSERVER] Component M85 changed from INSTALLED to PENDING
+[OBSERVER] Component M29 changed from INSTALLED to PENDING
+ERROR: Invalid command
+ERROR: Component M80 is not currently installed
+[OBSERVER] Component M141 changed from PENDING to INSTALLED
+ERROR: Component P80 is not in a mock fail state
+ERROR: Component P25 is not currently installed
+[OBSERVER] Component P115 changed from PENDING to INSTALLED
+ERROR: Invalid command
+[OBSERVER] Component M1 changed from PENDING to INSTALLED
+[OBSERVER] Component M78 changed from PENDING to INSTALLED
+[OBSERVER] Component M13 changed from PENDING to INSTALLED
+[OBSERVER] Component M151 changed from PENDING to INSTALLED
+[OBSERVER] Component M5 changed from PENDING to INSTALLED
+[OBSERVER] Component M128 changed from PENDING to INSTALLED
+[OBSERVER] Component M76 changed from PENDING to INSTALLED
+[OBSERVER] Component M85 changed from PENDING to INSTALLED
+[OBSERVER] Component P66 changed from PENDING to INSTALLED
+[OBSERVER] Component M172 changed from PENDING to INSTALLED
+[OBSERVER] Component P4 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M100 changed from PENDING to INSTALLED
+[OBSERVER] Component M138 changed from PENDING to INSTALLED
+[OBSERVER] Component M33 changed from PENDING to INSTALLED
+[OBSERVER] Component M135 changed from PENDING to INSTALLED
+ERROR: Invalid command
+ERROR: Component P40 is not currently installed
+[OBSERVER] Component M169 changed from PENDING to INSTALLED
+ERROR: Component M65 is not in a mock fail state
+ERROR: Component M118 is already set to fail
+[OBSERVER] Component M15 changed from PENDING to FAILED
+ERROR: Component M176 is not currently installed
+ERROR: Cannot attach to a module
+[OBSERVER] Component M95 changed from PENDING to FAILED
+[OBSERVER] Component M163 changed from PENDING to INSTALLED
+[OBSERVER] Component M183 changed from PENDING to INSTALLED
+[OBSERVER] Component P123 changed from PENDING to INSTALLED
+[OBSERVER] Component M73 changed from PENDING to INSTALLED
+[OBSERVER] Component P78 changed from PENDING to INSTALLED
+[OBSERVER] Component P74 changed from PENDING to INSTALLED
+[OBSERVER] Component M170 changed from PENDING to INSTALLED
+ERROR: Component P124 is not in a mock fail state
+[OBSERVER] Component M133 changed from PENDING to INSTALLED
+ERROR: Component with ID M179 already exists
+ERROR: Component P66 is already installed
+[OBSERVER] Component M37 changed from PENDING to INSTALLED
+ERROR: Component P3 is not currently installed
+[OBSERVER] Component M70 changed from PENDING to INSTALLED
+ERROR: Component M138 is not in a mock fail state
+[OBSERVER] Component M59 changed from PENDING to INSTALLED
+ERROR: Component P12 is not currently installed
+ERROR: Component M93 is not in a mock fail state
+ERROR: Component M72 is not currently installed
+ERROR: Invalid command
+[OBSERVER] Component M96 changed from PENDING to INSTALLED
+ERROR: Component M63 is not in a mock fail state
+ERROR: Invalid command
+[OBSERVER] Component M35 changed from PENDING to INSTALLED
+ERROR: Component M85 is already installed
+[OBSERVER] Component P119 changed from PENDING to FAILED
+[OBSERVER] Component M158 changed from PENDING to FAILED
+[OBSERVER] Component M162 changed from PENDING to INSTALLED
+ERROR: Component M97 is not currently installed
+[OBSERVER] Component M54 changed from PENDING to INSTALLED
+ERROR: Component P49 is not currently installed
+[OBSERVER] Component M164 changed from PENDING to INSTALLED
+[OBSERVER] Component M119 changed from PENDING to INSTALLED
+[OBSERVER] Component P73 changed from PENDING to INSTALLED
+[OBSERVER] Component P123 changed from INSTALLED to PENDING
+[OBSERVER] Component P119 changed from FAILED to PENDING
+[OBSERVER] Component P115 changed from INSTALLED to PENDING
+[OBSERVER] Component P78 changed from INSTALLED to PENDING
+[OBSERVER] Component P74 changed from INSTALLED to PENDING
+[OBSERVER] Component P73 changed from INSTALLED to PENDING
+[OBSERVER] Component P66 changed from INSTALLED to PENDING
+[OBSERVER] Component P4 changed from INSTALLED to PENDING
+[OBSERVER] Component M183 changed from INSTALLED to PENDING
+[OBSERVER] Component M172 changed from INSTALLED to PENDING
+[OBSERVER] Component M170 changed from INSTALLED to PENDING
+[OBSERVER] Component M169 changed from INSTALLED to PENDING
+[OBSERVER] Component M164 changed from INSTALLED to PENDING
+[OBSERVER] Component M163 changed from INSTALLED to PENDING
+[OBSERVER] Component M162 changed from INSTALLED to PENDING
+[OBSERVER] Component M158 changed from FAILED to PENDING
+[OBSERVER] Component M151 changed from INSTALLED to PENDING
+[OBSERVER] Component M141 changed from INSTALLED to PENDING
+[OBSERVER] Component M138 changed from INSTALLED to PENDING
+[OBSERVER] Component M135 changed from INSTALLED to PENDING
+[OBSERVER] Component M133 changed from INSTALLED to PENDING
+[OBSERVER] Component M128 changed from INSTALLED to PENDING
+[OBSERVER] Component M119 changed from INSTALLED to PENDING
+[OBSERVER] Component M100 changed from INSTALLED to PENDING
+[OBSERVER] Component M96 changed from INSTALLED to PENDING
+[OBSERVER] Component M95 changed from FAILED to PENDING
+[OBSERVER] Component M85 changed from INSTALLED to PENDING
+[OBSERVER] Component M78 changed from INSTALLED to PENDING
+[OBSERVER] Component M76 changed from INSTALLED to PENDING
+[OBSERVER] Component M73 changed from INSTALLED to PENDING
+[OBSERVER] Component M70 changed from INSTALLED to PENDING
+[OBSERVER] Component M59 changed from INSTALLED to PENDING
+[OBSERVER] Component M54 changed from INSTALLED to PENDING
+[OBSERVER] Component M37 changed from INSTALLED to PENDING
+[OBSERVER] Component M35 changed from INSTALLED to PENDING
+[OBSERVER] Component M33 changed from INSTALLED to PENDING
+[OBSERVER] Component M15 changed from FAILED to PENDING
+[OBSERVER] Component M13 changed from INSTALLED to PENDING
+[OBSERVER] Component M5 changed from INSTALLED to PENDING
+[OBSERVER] Component M1 changed from INSTALLED to PENDING
+ERROR: Component P1 is not currently installed
+ERROR: Component P11 is not in a mock fail state
+[OBSERVER] Component M84 changed from PENDING to INSTALLED
+[OBSERVER] Component P121 changed from PENDING to INSTALLED
+[OBSERVER] Component P117 changed from PENDING to FAILED
+[OBSERVER] Component P121 changed from INSTALLED to PENDING
+[OBSERVER] Component P88 changed from PENDING to FAILED
+[OBSERVER] Component M84 changed from INSTALLED to PENDING
+[OBSERVER] Component P82 changed from PENDING to FAILED
+[OBSERVER] Component P13 changed from PENDING to FAILED
+ERROR: Component P41 is already set to fail
+ERROR: Component P53 is not currently installed
+[OBSERVER] Component P99 changed from PENDING to FAILED
+ERROR: Component P39 is not in a mock fail state
+[OBSERVER] Component M106 changed from PENDING to FAILED
+[OBSERVER] Component P45 changed from PENDING to FAILED
+ERROR: Component GHOST_P does not exist
+ERROR: Component M130 is not currently installed
+[OBSERVER] Component M5 changed from PENDING to INSTALLED
+[OBSERVER] Component M140 changed from PENDING to INSTALLED
+[OBSERVER] Component P110 changed from PENDING to INSTALLED
+ERROR: Component P41 is already set to fail
+[OBSERVER] Component P123 changed from PENDING to INSTALLED
+[OBSERVER] Component M91 changed from PENDING to FAILED
+[OBSERVER] Component P36 changed from PENDING to FAILED
+[OBSERVER] Component P100 changed from PENDING to INSTALLED
+[OBSERVER] Component P123 changed from INSTALLED to PENDING
+[OBSERVER] Component P117 changed from FAILED to PENDING
+[OBSERVER] Component P110 changed from INSTALLED to PENDING
+[OBSERVER] Component P100 changed from INSTALLED to PENDING
+[OBSERVER] Component P99 changed from FAILED to PENDING
+[OBSERVER] Component P88 changed from FAILED to PENDING
+[OBSERVER] Component P82 changed from FAILED to PENDING
+[OBSERVER] Component P45 changed from FAILED to PENDING
+[OBSERVER] Component P36 changed from FAILED to PENDING
+[OBSERVER] Component P13 changed from FAILED to PENDING
+[OBSERVER] Component M140 changed from INSTALLED to PENDING
+[OBSERVER] Component M106 changed from FAILED to PENDING
+[OBSERVER] Component M91 changed from FAILED to PENDING
+[OBSERVER] Component M5 changed from INSTALLED to PENDING
+ERROR: Component P116 is not currently installed
+ERROR: Invalid command
+[OBSERVER] Component M86 changed from PENDING to INSTALLED
+ERROR: Component P14 is not currently installed
+[OBSERVER] Component M105 changed from PENDING to FAILED
+ERROR: Component P93 is not currently installed
+[OBSERVER] Component M37 changed from PENDING to INSTALLED
+ERROR: Component P16 is not in a mock fail state
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M75 changed from PENDING to INSTALLED
+[OBSERVER] Component M28 changed from PENDING to FAILED
+ERROR: Component P110 is not currently installed
+ERROR: Component P36 is not currently installed
+ERROR: Invalid command
+[OBSERVER] Component M183 changed from PENDING to INSTALLED
+[OBSERVER] Component M161 changed from PENDING to INSTALLED
+[OBSERVER] Component M183 changed from INSTALLED to PENDING
+[OBSERVER] Component M161 changed from INSTALLED to PENDING
+[OBSERVER] Component M105 changed from FAILED to PENDING
+[OBSERVER] Component M86 changed from INSTALLED to PENDING
+[OBSERVER] Component M75 changed from INSTALLED to PENDING
+[OBSERVER] Component M37 changed from INSTALLED to PENDING
+[OBSERVER] Component M28 changed from FAILED to PENDING
+ERROR: Component P86 is not in a mock fail state
+[OBSERVER] Component M17 changed from PENDING to INSTALLED
+[OBSERVER] Component M17 changed from INSTALLED to PENDING
+[OBSERVER] Component M181 changed from PENDING to INSTALLED
+[OBSERVER] Component M81 changed from PENDING to INSTALLED
+ERROR: Component P60 is not in a mock fail state
+[OBSERVER] Component M24 changed from PENDING to INSTALLED
+[OBSERVER] Component M49 changed from PENDING to INSTALLED
+ERROR: Invalid command
+[OBSERVER] Component M110 changed from PENDING to INSTALLED
+[OBSERVER] Component M45 changed from PENDING to INSTALLED
+[OBSERVER] Component M153 changed from PENDING to INSTALLED
+[OBSERVER] Component P112 changed from PENDING to INSTALLED
+[OBSERVER] Component P85 changed from PENDING to INSTALLED
+[OBSERVER] Component M111 changed from PENDING to INSTALLED
+[OBSERVER] Component M63 changed from PENDING to INSTALLED
+ERROR: Component M69 is not in a mock fail state
+[OBSERVER] Component M149 changed from PENDING to INSTALLED
+ERROR: Component with ID M51 already exists
+ERROR: Cannot attach to a module
+[OBSERVER] Component P55 changed from PENDING to INSTALLED
+[OBSERVER] Component P112 changed from INSTALLED to PENDING
+[OBSERVER] Component P85 changed from INSTALLED to PENDING
+[OBSERVER] Component P55 changed from INSTALLED to PENDING
+[OBSERVER] Component M181 changed from INSTALLED to PENDING
+[OBSERVER] Component M153 changed from INSTALLED to PENDING
+[OBSERVER] Component M149 changed from INSTALLED to PENDING
+[OBSERVER] Component M111 changed from INSTALLED to PENDING
+[OBSERVER] Component M110 changed from INSTALLED to PENDING
+[OBSERVER] Component M81 changed from INSTALLED to PENDING
+[OBSERVER] Component M63 changed from INSTALLED to PENDING
+[OBSERVER] Component M49 changed from INSTALLED to PENDING
+[OBSERVER] Component M45 changed from INSTALLED to PENDING
+[OBSERVER] Component M24 changed from INSTALLED to PENDING
+ERROR: Cannot attach to a module
+ERROR: Component P43 is not currently installed
+[OBSERVER] Component M157 changed from PENDING to INSTALLED
+ERROR: Component M1 is not currently installed
+[OBSERVER] Component M84 changed from PENDING to INSTALLED
+[OBSERVER] Component M160 changed from PENDING to INSTALLED
+[OBSERVER] Component M124 changed from PENDING to FAILED
+ERROR: Cannot attach to a module
+ERROR: Component M134 is not currently installed
+ERROR: Component M127 is not currently installed
+[OBSERVER] Component M61 changed from PENDING to INSTALLED
+[OBSERVER] Component M39 changed from PENDING to INSTALLED
+[OBSERVER] Component M164 changed from PENDING to INSTALLED
+[OBSERVER] Component M119 changed from PENDING to INSTALLED
+[OBSERVER] Component P73 changed from PENDING to INSTALLED
+[OBSERVER] Component M104 changed from PENDING to INSTALLED
+[OBSERVER] Component M159 changed from PENDING to INSTALLED
+[OBSERVER] Component M41 changed from PENDING to INSTALLED
+[OBSERVER] Component M120 changed from PENDING to INSTALLED
+[OBSERVER] Component M179 changed from PENDING to FAILED
+ERROR: Component P51 is not in a mock fail state
+ERROR: Component P67 is already set to fail
+[OBSERVER] Component M144 changed from PENDING to INSTALLED
+ERROR: Component M160 is already installed
+[OBSERVER] Component M79 changed from PENDING to INSTALLED
+[OBSERVER] Component M128 changed from PENDING to INSTALLED
+[OBSERVER] Component M21 changed from PENDING to INSTALLED
+[OBSERVER] Component M98 changed from PENDING to INSTALLED
+[OBSERVER] Component P87 changed from PENDING to INSTALLED
+[OBSERVER] Component M55 changed from PENDING to INSTALLED
+ERROR: Component M110 is not currently installed
+[OBSERVER] Component M65 changed from PENDING to INSTALLED
+[OBSERVER] Component M27 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M175 changed from PENDING to INSTALLED
+ERROR: Component M158 is not currently installed
+[OBSERVER] Component M34 changed from PENDING to INSTALLED
+[OBSERVER] Component M44 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+ERROR: Component M143 is not currently installed
+ERROR: Component GHOST_P does not exist
+ERROR: Cannot attach to a module
+ERROR: Component M156 is not currently installed
+[OBSERVER] Component M162 changed from PENDING to INSTALLED
+ERROR: Component P40 is not currently installed
+[OBSERVER] Component M129 changed from PENDING to FAILED
+[OBSERVER] Component M9 changed from PENDING to INSTALLED
+ERROR: Component with ID M116 already exists
+[OBSERVER] Component M133 changed from PENDING to INSTALLED
+[OBSERVER] Component M130 changed from PENDING to INSTALLED
+[OBSERVER] Component P109 changed from PENDING to INSTALLED
+[OBSERVER] Component M103 changed from PENDING to INSTALLED
+[OBSERVER] Component P59 changed from PENDING to INSTALLED
+[OBSERVER] Component M158 changed from PENDING to INSTALLED
+[OBSERVER] Component M110 changed from PENDING to INSTALLED
+[OBSERVER] Component M45 changed from PENDING to INSTALLED
+[OBSERVER] Component M153 changed from PENDING to INSTALLED
+[OBSERVER] Component P112 changed from PENDING to INSTALLED
+[OBSERVER] Component P85 changed from PENDING to INSTALLED
+ERROR: Component M56 is not currently installed
+[OBSERVER] Component M185 changed from PENDING to INSTALLED
+ERROR: Component M25 is not currently installed
+ERROR: Component M45 is not in a mock fail state
+[OBSERVER] Component P112 changed from INSTALLED to PENDING
+[OBSERVER] Component P109 changed from INSTALLED to PENDING
+[OBSERVER] Component P87 changed from INSTALLED to PENDING
+[OBSERVER] Component P85 changed from INSTALLED to PENDING
+[OBSERVER] Component P73 changed from INSTALLED to PENDING
+[OBSERVER] Component P59 changed from INSTALLED to PENDING
+[OBSERVER] Component M185 changed from INSTALLED to PENDING
+[OBSERVER] Component M179 changed from FAILED to PENDING
+[OBSERVER] Component M175 changed from INSTALLED to PENDING
+[OBSERVER] Component M164 changed from INSTALLED to PENDING
+[OBSERVER] Component M162 changed from INSTALLED to PENDING
+[OBSERVER] Component M160 changed from INSTALLED to PENDING
+[OBSERVER] Component M159 changed from INSTALLED to PENDING
+[OBSERVER] Component M158 changed from INSTALLED to PENDING
+[OBSERVER] Component M157 changed from INSTALLED to PENDING
+[OBSERVER] Component M153 changed from INSTALLED to PENDING
+[OBSERVER] Component M144 changed from INSTALLED to PENDING
+[OBSERVER] Component M133 changed from INSTALLED to PENDING
+[OBSERVER] Component M130 changed from INSTALLED to PENDING
+[OBSERVER] Component M129 changed from FAILED to PENDING
+[OBSERVER] Component M128 changed from INSTALLED to PENDING
+[OBSERVER] Component M124 changed from FAILED to PENDING
+[OBSERVER] Component M120 changed from INSTALLED to PENDING
+[OBSERVER] Component M119 changed from INSTALLED to PENDING
+[OBSERVER] Component M110 changed from INSTALLED to PENDING
+[OBSERVER] Component M104 changed from INSTALLED to PENDING
+[OBSERVER] Component M103 changed from INSTALLED to PENDING
+[OBSERVER] Component M98 changed from INSTALLED to PENDING
+[OBSERVER] Component M84 changed from INSTALLED to PENDING
+[OBSERVER] Component M79 changed from INSTALLED to PENDING
+[OBSERVER] Component M65 changed from INSTALLED to PENDING
+[OBSERVER] Component M61 changed from INSTALLED to PENDING
+[OBSERVER] Component M55 changed from INSTALLED to PENDING
+[OBSERVER] Component M45 changed from INSTALLED to PENDING
+[OBSERVER] Component M44 changed from INSTALLED to PENDING
+[OBSERVER] Component M41 changed from INSTALLED to PENDING
+[OBSERVER] Component M39 changed from INSTALLED to PENDING
+[OBSERVER] Component M34 changed from INSTALLED to PENDING
+[OBSERVER] Component M27 changed from INSTALLED to PENDING
+[OBSERVER] Component M21 changed from INSTALLED to PENDING
+[OBSERVER] Component M9 changed from INSTALLED to PENDING
+ERROR: No installed components to uninstall
+ERROR: No installed components to uninstall
+[OBSERVER] Component M181 changed from PENDING to INSTALLED
+[OBSERVER] Component M176 changed from PENDING to FAILED
+ERROR: Component M143 is not currently installed
+[OBSERVER] Component M121 changed from PENDING to FAILED
+ERROR: Component M56 is not currently installed
+[OBSERVER] Component M120 changed from PENDING to INSTALLED
+[OBSERVER] Component M138 changed from PENDING to INSTALLED
+[OBSERVER] Component P95 changed from PENDING to INSTALLED
+ERROR: Component M122 is not in a mock fail state
+[OBSERVER] Component P116 changed from PENDING to FAILED
+ERROR: Component M125 is not in a mock fail state
+[OBSERVER] Component M74 changed from PENDING to INSTALLED
+[OBSERVER] Component M41 changed from PENDING to INSTALLED
+[OBSERVER] Component M90 changed from PENDING to INSTALLED
+[OBSERVER] Component M151 changed from PENDING to INSTALLED
+[OBSERVER] Component M183 changed from PENDING to INSTALLED
+[OBSERVER] Component P123 changed from PENDING to INSTALLED
+[OBSERVER] Component M73 changed from PENDING to INSTALLED
+[OBSERVER] Component P78 changed from PENDING to INSTALLED
+[OBSERVER] Component P74 changed from PENDING to INSTALLED
+[OBSERVER] Component M146 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+[OBSERVER] Component P6 changed from PENDING to FAILED
+ERROR: Component M147 is not currently installed
+[OBSERVER] Component P53 changed from PENDING to FAILED
+[OBSERVER] Component M83 changed from PENDING to INSTALLED
+[OBSERVER] Component M157 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+ERROR: Cannot attach to a module
+ERROR: Component M31 is not currently installed
+ERROR: Component M146 is not in a mock fail state
+[OBSERVER] Component M114 changed from PENDING to INSTALLED
+ERROR: Component P95 is already installed
+ERROR: Component P88 is not in a mock fail state
+ERROR: Component P55 is not currently installed
+ERROR: Cannot attach to a module
+[OBSERVER] Component M16 changed from PENDING to INSTALLED
+ERROR: Component M158 is not in a mock fail state
+ERROR: Component P103 is not in a mock fail state
+ERROR: Component P114 is not currently installed
+ERROR: Component with ID M112 already exists
+[OBSERVER] Component M77 changed from PENDING to INSTALLED
+ERROR: Component P12 is not in a mock fail state
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+[OBSERVER] Component P123 changed from INSTALLED to PENDING
+[OBSERVER] Component P116 changed from FAILED to PENDING
+[OBSERVER] Component P95 changed from INSTALLED to PENDING
+[OBSERVER] Component P78 changed from INSTALLED to PENDING
+[OBSERVER] Component P74 changed from INSTALLED to PENDING
+[OBSERVER] Component P53 changed from FAILED to PENDING
+[OBSERVER] Component P6 changed from FAILED to PENDING
+[OBSERVER] Component M183 changed from INSTALLED to PENDING
+[OBSERVER] Component M181 changed from INSTALLED to PENDING
+[OBSERVER] Component M176 changed from FAILED to PENDING
+[OBSERVER] Component M157 changed from INSTALLED to PENDING
+[OBSERVER] Component M151 changed from INSTALLED to PENDING
+[OBSERVER] Component M146 changed from INSTALLED to PENDING
+[OBSERVER] Component M138 changed from INSTALLED to PENDING
+[OBSERVER] Component M121 changed from FAILED to PENDING
+[OBSERVER] Component M120 changed from INSTALLED to PENDING
+[OBSERVER] Component M114 changed from INSTALLED to PENDING
+[OBSERVER] Component M90 changed from INSTALLED to PENDING
+[OBSERVER] Component M83 changed from INSTALLED to PENDING
+[OBSERVER] Component M77 changed from INSTALLED to PENDING
+[OBSERVER] Component M74 changed from INSTALLED to PENDING
+[OBSERVER] Component M73 changed from INSTALLED to PENDING
+[OBSERVER] Component M41 changed from INSTALLED to PENDING
+[OBSERVER] Component M16 changed from INSTALLED to PENDING
+[OBSERVER] Component M6 changed from INSTALLED to PENDING
+ERROR: Component P124 is not currently installed
+ERROR: No installed components to uninstall
+[OBSERVER] Component M128 changed from PENDING to INSTALLED
+[OBSERVER] Component M22 changed from PENDING to INSTALLED
+[OBSERVER] Component M158 changed from PENDING to INSTALLED
+[OBSERVER] Component P38 changed from PENDING to INSTALLED
+ERROR: Component M182 is already set to fail
+[OBSERVER] Component M27 changed from PENDING to INSTALLED
+[OBSERVER] Component M150 changed from PENDING to INSTALLED
+[OBSERVER] Component P38 changed from INSTALLED to PENDING
+[OBSERVER] Component M158 changed from INSTALLED to PENDING
+[OBSERVER] Component M150 changed from INSTALLED to PENDING
+[OBSERVER] Component M128 changed from INSTALLED to PENDING
+[OBSERVER] Component M27 changed from INSTALLED to PENDING
+[OBSERVER] Component M22 changed from INSTALLED to PENDING
+[OBSERVER] Component P56 changed from PENDING to FAILED
+[OBSERVER] Component P56 changed from FAILED to PENDING
+[OBSERVER] Component M84 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+ERROR: Component P3 is not in a mock fail state
+ERROR: Component P97 is already set to fail
+[OBSERVER] Component P111 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+[OBSERVER] Component P106 changed from PENDING to FAILED
+ERROR: Component M175 is not currently installed
+ERROR: Cannot attach to a module
+[OBSERVER] Component M30 changed from PENDING to FAILED
+[OBSERVER] Component P70 changed from PENDING to FAILED
+[OBSERVER] Component M117 changed from PENDING to INSTALLED
+[OBSERVER] Component M83 changed from PENDING to FAILED
+[OBSERVER] Component M117 changed from INSTALLED to PENDING
+[OBSERVER] Component P30 changed from PENDING to FAILED
+ERROR: Component with ID M131 already exists
+ERROR: Component GHOST_P does not exist
+ERROR: Component GHOST_P does not exist
+ERROR: Component P20 is already set to fail
+ERROR: Component M70 is not in a mock fail state
+[OBSERVER] Component M82 changed from PENDING to INSTALLED
+ERROR: Component P117 is not in a mock fail state
+[OBSERVER] Component M90 changed from PENDING to INSTALLED
+[OBSERVER] Component M176 changed from PENDING to INSTALLED
+[OBSERVER] Component P80 changed from PENDING to INSTALLED
+[OBSERVER] Component M110 changed from PENDING to INSTALLED
+[OBSERVER] Component M45 changed from PENDING to INSTALLED
+[OBSERVER] Component M153 changed from PENDING to INSTALLED
+[OBSERVER] Component P112 changed from PENDING to INSTALLED
+[OBSERVER] Component P85 changed from PENDING to INSTALLED
+[OBSERVER] Component M157 changed from PENDING to INSTALLED
+ERROR: Component M164 is not currently installed
+[OBSERVER] Component M37 changed from PENDING to INSTALLED
+ERROR: Component M16 is not currently installed
+[OBSERVER] Component M147 changed from PENDING to INSTALLED
+[OBSERVER] Component M86 changed from PENDING to INSTALLED
+[OBSERVER] Component M55 changed from PENDING to INSTALLED
+ERROR: Invalid command
+[OBSERVER] Component M60 changed from PENDING to INSTALLED
+[OBSERVER] Component M152 changed from PENDING to INSTALLED
+[OBSERVER] Component M19 changed from PENDING to INSTALLED
+[OBSERVER] Component P50 changed from PENDING to INSTALLED
+ERROR: Component M36 is not in a mock fail state
+ERROR: Component M55 is not in a mock fail state
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+ERROR: Component M164 is not in a mock fail state
+ERROR: Component P124 is not currently installed
+ERROR: Component with ID M10 already exists
+ERROR: Component M110 is already installed
+ERROR: Component P102 is not in a mock fail state
+[OBSERVER] Component P113 changed from PENDING to INSTALLED
+[OBSERVER] Component M172 changed from PENDING to INSTALLED
+ERROR: Component M76 is not in a mock fail state

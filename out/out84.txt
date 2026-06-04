@@ -1,0 +1,18 @@
+ERROR: Component M2 is not currently installed
+ERROR: Cannot attach to a module
+ERROR: Invalid command
+ERROR: Component P3 is not currently installed
+ERROR: Component M2 is not in a mock fail state
+ERROR: Component P6 is not in a mock fail state
+ERROR: Component M5 is not in a mock fail state
+[OBSERVER] Component M7 changed from PENDING to INSTALLED
+ERROR: Component M8 is not currently installed
+[OBSERVER] Component M7 changed from INSTALLED to PENDING
+ERROR: Component P1 is already set to fail
+ERROR: Component M8 is not currently installed
+ERROR: Component M4 is not in a mock fail state
+ERROR: Component M2 is not currently installed
+ERROR: Component P4 is not currently installed
+ERROR: Invalid command
+ERROR: Component M8 is not in a mock fail state
+ERROR: Component M1 is not currently installed

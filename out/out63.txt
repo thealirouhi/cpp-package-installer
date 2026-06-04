@@ -1,0 +1,47 @@
+[OBSERVER] Component M4 changed from PENDING to INSTALLED
+ERROR: Component P4 is not currently installed
+ERROR: Component with ID M8 already exists
+[OBSERVER] Component M4 changed from INSTALLED to PENDING
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+[OBSERVER] Component M2 changed from PENDING to INSTALLED
+[OBSERVER] Component P4 changed from PENDING to INSTALLED
+ERROR: Component M1 is not currently installed
+ERROR: Component P4 is already installed
+[OBSERVER] Component M7 changed from PENDING to FAILED
+[OBSERVER] Component P1 changed from PENDING to FAILED
+ERROR: Component M2 is required by another package
+[OBSERVER] Component M3 changed from PENDING to INSTALLED
+[OBSERVER] Component M4 changed from PENDING to INSTALLED
+[OBSERVER] Component M8 changed from PENDING to FAILED
+[OBSERVER] Component M4 changed from INSTALLED to PENDING
+[OBSERVER] Component M3 changed from INSTALLED to PENDING
+[OBSERVER] Component P5 changed from PENDING to FAILED
+ERROR: Component M6 is already installed
+[OBSERVER] Component P2 changed from PENDING to FAILED
+ERROR: Component M2 is not in a mock fail state
+ERROR: Component M5 is not in a mock fail state
+[OBSERVER] Component P5 changed from FAILED to PENDING
+[OBSERVER] Component P4 changed from INSTALLED to PENDING
+[OBSERVER] Component P2 changed from FAILED to PENDING
+[OBSERVER] Component P1 changed from FAILED to PENDING
+[OBSERVER] Component M8 changed from FAILED to PENDING
+[OBSERVER] Component M7 changed from FAILED to PENDING
+[OBSERVER] Component M6 changed from INSTALLED to PENDING
+[OBSERVER] Component M2 changed from INSTALLED to PENDING
+ERROR: Component M4 is not in a mock fail state
+[OBSERVER] Component M7 changed from PENDING to INSTALLED
+[OBSERVER] Component M4 changed from PENDING to INSTALLED
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+[OBSERVER] Component P2 changed from PENDING to INSTALLED
+[OBSERVER] Component M2 changed from PENDING to FAILED
+[OBSERVER] Component P2 changed from INSTALLED to PENDING
+[OBSERVER] Component M6 changed from INSTALLED to PENDING
+[OBSERVER] Component M4 changed from INSTALLED to PENDING
+[OBSERVER] Component M7 changed from INSTALLED to PENDING
+[OBSERVER] Component P1 changed from PENDING to FAILED
+[OBSERVER] Component M4 changed from PENDING to INSTALLED
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+[OBSERVER] Component P2 changed from PENDING to INSTALLED
+ERROR: Component M5 is not in a mock fail state
+ERROR: Component with ID M5 already exists
+ERROR: Component P4 is not currently installed

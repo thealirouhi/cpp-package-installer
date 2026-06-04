@@ -1,0 +1,40 @@
+ERROR: Component M5 is not in a mock fail state
+[OBSERVER] Component M8 changed from PENDING to INSTALLED
+ERROR: Component M8 is not in a mock fail state
+ERROR: Component GHOST_P does not exist
+[OBSERVER] Component M1 changed from PENDING to INSTALLED
+[OBSERVER] Component M9 changed from PENDING to INSTALLED
+[OBSERVER] Component M2 changed from PENDING to INSTALLED
+[OBSERVER] Component P4 changed from PENDING to INSTALLED
+[OBSERVER] Component P2 changed from PENDING to INSTALLED
+ERROR: Component M2 is already installed
+[OBSERVER] Component P4 changed from INSTALLED to PENDING
+[OBSERVER] Component P2 changed from INSTALLED to PENDING
+[OBSERVER] Component M9 changed from INSTALLED to PENDING
+[OBSERVER] Component M8 changed from INSTALLED to PENDING
+[OBSERVER] Component M2 changed from INSTALLED to PENDING
+[OBSERVER] Component M1 changed from INSTALLED to PENDING
+[OBSERVER] Component M1 changed from PENDING to INSTALLED
+ERROR: Component M2 is not in a mock fail state
+ERROR: Component GHOST_P does not exist
+ERROR: Component with ID M2 already exists
+[OBSERVER] Component M5 changed from PENDING to INSTALLED
+ERROR: Component M5 is already installed
+ERROR: Component M3 is not in a mock fail state
+[OBSERVER] Component M8 changed from PENDING to INSTALLED
+ERROR: Component M5 is already installed
+ERROR: Component P2 is not currently installed
+ERROR: Component M9 is not currently installed
+ERROR: Cannot attach to a module
+ERROR: Component M7 is not in a mock fail state
+[OBSERVER] Component M1 changed from INSTALLED to PENDING
+ERROR: Component M8 is already installed
+ERROR: Component M5 is already installed
+[OBSERVER] Component M1 changed from PENDING to INSTALLED
+[OBSERVER] Component M4 changed from PENDING to INSTALLED
+[OBSERVER] Component P6 changed from PENDING to INSTALLED
+ERROR: Component with ID M2 already exists
+[OBSERVER] Component M2 changed from PENDING to INSTALLED
+[OBSERVER] Component P5 changed from PENDING to INSTALLED
+ERROR: Component M3 is not currently installed
+[OBSERVER] Component M9 changed from PENDING to INSTALLED

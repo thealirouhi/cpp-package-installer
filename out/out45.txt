@@ -1,0 +1,30 @@
+[OBSERVER] Component M9 changed from PENDING to INSTALLED
+[OBSERVER] Component M5 changed from PENDING to INSTALLED
+[OBSERVER] Component M4 changed from PENDING to INSTALLED
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+ERROR: Component M5 is already installed
+ERROR: Component M8 is not in a mock fail state
+ERROR: Component P6 is not in a mock fail state
+[OBSERVER] Component M2 changed from PENDING to INSTALLED
+[OBSERVER] Component P1 changed from PENDING to INSTALLED
+[OBSERVER] Component M3 changed from PENDING to FAILED
+[OBSERVER] Component P5 changed from PENDING to FAILED
+[OBSERVER] Component M7 changed from PENDING to INSTALLED
+ERROR: Component P1 is already installed
+[OBSERVER] Component P3 changed from PENDING to INSTALLED
+ERROR: Component M2 is required by another package
+ERROR: Component M8 is not in a mock fail state
+ERROR: Component P1 is already installed
+ERROR: Component P3 is already installed
+ERROR: Component M2 is not in a mock fail state
+ERROR: Component P5 is not currently installed
+ERROR: Component GHOST_P does not exist
+ERROR: Invalid command
+ERROR: Component M1 is not in a mock fail state
+ERROR: Component P1 is already installed
+ERROR: Component P1 is already installed
+ERROR: Component P1 is already installed
+ERROR: Component M7 is already installed
+ERROR: Component M6 is required by another package
+ERROR: Component P3 is already installed
+ERROR: Component M6 is already installed

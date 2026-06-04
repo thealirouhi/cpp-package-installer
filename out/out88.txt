@@ -1,0 +1,56 @@
+[OBSERVER] Component M2 changed from PENDING to INSTALLED
+ERROR: Component GHOST_P does not exist
+ERROR: Component with ID M8 already exists
+ERROR: Component M8 is not currently installed
+ERROR: Component M9 is not currently installed
+[OBSERVER] Component M10 changed from PENDING to INSTALLED
+ERROR: Component with ID M5 already exists
+[OBSERVER] Component M5 changed from PENDING to INSTALLED
+[OBSERVER] Component M7 changed from PENDING to INSTALLED
+[OBSERVER] Component M9 changed from PENDING to INSTALLED
+[OBSERVER] Component M8 changed from PENDING to INSTALLED
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+[OBSERVER] Component P6 changed from PENDING to INSTALLED
+[OBSERVER] Component M3 changed from PENDING to INSTALLED
+[OBSERVER] Component P5 changed from PENDING to INSTALLED
+ERROR: Component P1 is not currently installed
+ERROR: Component P6 is required by another package
+ERROR: Component M9 is already installed
+[OBSERVER] Component M1 changed from PENDING to INSTALLED
+[OBSERVER] Component P1 changed from PENDING to INSTALLED
+[OBSERVER] Component P4 changed from PENDING to INSTALLED
+ERROR: Cannot attach to a module
+ERROR: Component M5 is already installed
+ERROR: Component M2 is already installed
+ERROR: Component M7 is already installed
+ERROR: Component M1 is required by another package
+[OBSERVER] Component P6 changed from INSTALLED to PENDING
+[OBSERVER] Component P5 changed from INSTALLED to PENDING
+[OBSERVER] Component P4 changed from INSTALLED to PENDING
+[OBSERVER] Component P1 changed from INSTALLED to PENDING
+[OBSERVER] Component M10 changed from INSTALLED to PENDING
+[OBSERVER] Component M9 changed from INSTALLED to PENDING
+[OBSERVER] Component M8 changed from INSTALLED to PENDING
+[OBSERVER] Component M7 changed from INSTALLED to PENDING
+[OBSERVER] Component M6 changed from INSTALLED to PENDING
+[OBSERVER] Component M5 changed from INSTALLED to PENDING
+[OBSERVER] Component M3 changed from INSTALLED to PENDING
+[OBSERVER] Component M2 changed from INSTALLED to PENDING
+[OBSERVER] Component M1 changed from INSTALLED to PENDING
+ERROR: No installed components to uninstall
+ERROR: Component P5 is not in a mock fail state
+ERROR: Component M7 is not in a mock fail state
+[OBSERVER] Component M7 changed from PENDING to INSTALLED
+[OBSERVER] Component M9 changed from PENDING to INSTALLED
+[OBSERVER] Component M8 changed from PENDING to INSTALLED
+[OBSERVER] Component M6 changed from PENDING to INSTALLED
+[OBSERVER] Component P6 changed from PENDING to INSTALLED
+[OBSERVER] Component M10 changed from PENDING to INSTALLED
+[OBSERVER] Component M2 changed from PENDING to INSTALLED
+[OBSERVER] Component P4 changed from PENDING to INSTALLED
+ERROR: Component with ID M9 already exists
+ERROR: Component M10 is required by another package
+ERROR: Component P2 is not currently installed
+ERROR: Component M4 is not in a mock fail state
+ERROR: Component with ID M8 already exists
+ERROR: Cannot attach to a module

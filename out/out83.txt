@@ -1,0 +1,40 @@
+[OBSERVER] Component M8 changed from PENDING to INSTALLED
+ERROR: Invalid command
+[OBSERVER] Component M10 changed from PENDING to INSTALLED
+[OBSERVER] Component M3 changed from PENDING to INSTALLED
+[OBSERVER] Component P7 changed from PENDING to INSTALLED
+ERROR: Invalid command
+[OBSERVER] Component P4 changed from PENDING to FAILED
+[OBSERVER] Component M5 changed from PENDING to INSTALLED
+ERROR: Component M11 is not in a mock fail state
+[OBSERVER] Component P8 changed from PENDING to FAILED
+ERROR: Component M5 is already installed
+ERROR: Component M10 is already installed
+[OBSERVER] Component P5 changed from PENDING to INSTALLED
+[OBSERVER] Component P3 changed from PENDING to INSTALLED
+[OBSERVER] Component P1 changed from PENDING to FAILED
+ERROR: Component GHOST_P does not exist
+ERROR: Component P5 is already installed
+ERROR: Cannot attach to a module
+ERROR: Component M10 is already installed
+ERROR: Invalid command
+[OBSERVER] Component M9 changed from PENDING to INSTALLED
+[OBSERVER] Component M6 changed from PENDING to FAILED
+[OBSERVER] Component P2 changed from PENDING to FAILED
+[OBSERVER] Component M11 changed from PENDING to INSTALLED
+ERROR: Component P1 is not currently installed
+ERROR: Component M10 is already installed
+ERROR: Component M3 is already installed
+ERROR: Component M12 is not currently installed
+ERROR: Component P5 is already installed
+ERROR: Component M11 is already installed
+ERROR: Component M10 is already installed
+ERROR: Component P7 is already installed
+ERROR: Component P5 is already installed
+[OBSERVER] Component M7 changed from PENDING to FAILED
+ERROR: Component M1 is not currently installed
+ERROR: Component M2 is not currently installed
+ERROR: Component M3 is already installed
+ERROR: Component P8 is not currently installed
+ERROR: Cannot attach to a module
+ERROR: Component P7 is already installed

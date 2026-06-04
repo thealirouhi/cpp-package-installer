@@ -1,0 +1,13 @@
+# Build output
+installer
+*.o
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Assignment PDF
+Ap_CA3.pdf
+*.pdf

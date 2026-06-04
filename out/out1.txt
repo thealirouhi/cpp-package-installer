@@ -1,0 +1,27 @@
+ERROR: Invalid command
+ERROR: Invalid command
+ERROR: Component GHOST does not exist
+ERROR: Component GHOST does not exist
+ERROR: Component GHOST does not exist
+ERROR: Component GHOST1 does not exist
+ERROR: Component with ID M1 already exists
+ERROR: Cannot attach to a module
+ERROR: Component M1 is already attached to P1
+ERROR: Component M1 is already set to fail
+ERROR: Component P1 is not in a mock fail state
+ERROR: Component M1 is not currently installed
+ERROR: No installed components to uninstall
+[OBSERVER] Component M1 changed from PENDING to INSTALLED
+[OBSERVER] Component P1 changed from PENDING to INSTALLED
+[OBSERVER] Component P2 changed from PENDING to INSTALLED
+ERROR: Component M1 is already installed
+ERROR: Component P2 is already installed
+ERROR: Cannot attach to an already installed package
+ERROR: Component M1 is required by another package
+[OBSERVER] Component P2 changed from INSTALLED to PENDING
+[OBSERVER] Component P1 changed from INSTALLED to PENDING
+[OBSERVER] Component M1 changed from INSTALLED to PENDING
+[OBSERVER] Component M3 changed from PENDING to FAILED
+[OBSERVER] Component P3 changed from PENDING to FAILED
+[OBSERVER] Component M3 changed from FAILED to PENDING
+[OBSERVER] Component P3 changed from FAILED to PENDING
