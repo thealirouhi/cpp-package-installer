@@ -1,4 +1,5 @@
 #include "InstallationEngine.hpp"
+#include <iostream>
 
 InstallationEngine::InstallationEngine()
 {
@@ -22,8 +23,6 @@ void InstallationEngine::addPackage(const std::string& id, const std::string& ti
 
     allComponents.push_back(p);
 }
-
-#include <iostream>
 
 Installable* InstallationEngine::getComponent(const std::string& id)
 {
@@ -55,4 +54,31 @@ void InstallationEngine::attach(const std::string& parentId, const std::string& 
 
     Package* pkg = static_cast<Package*>(parent);
     pkg->addChild(child);
+}
+
+void InstallationEngine::install(const std::string& id)
+{
+    Installable* comp = getComponent(id);
+
+    if (!comp)
+    {
+        std::cout << "ERROR: Invalid command\n";
+        return;
+    }
+
+    TransactionContext tx;
+    comp->install(tx);
+}
+
+void InstallationEngine::uninstall(const std::string& id)
+{
+    Installable* comp = getComponent(id);
+
+    if (!comp)
+    {
+        std::cout << "ERROR: Invalid command\n";
+        return;
+    }
+
+    comp->uninstall();
 }
