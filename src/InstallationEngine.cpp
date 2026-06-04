@@ -82,3 +82,21 @@ void InstallationEngine::uninstall(const std::string& id)
 
     comp->uninstall();
 }
+
+void InstallationEngine::installAll()
+{
+    TransactionContext tx;
+
+    for (auto* comp : allComponents)
+    {
+        comp->install(tx);
+    }
+}
+
+void InstallationEngine::uninstallAll()
+{
+    for (auto it = allComponents.rbegin(); it != allComponents.rend(); ++it)
+    {
+        (*it)->uninstall();
+    }
+}
