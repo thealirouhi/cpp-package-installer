@@ -2,13 +2,13 @@
 
 #include "Module.hpp"
 #include "Package.hpp"
-// #include "Installer.hpp"
+#include "Installer.hpp"
 #include "TransactionContext.hpp"
 
 int main()
 {
     TransactionContext tx;
-    // Installer installer;
+    Installer installer;
 
     // Leaf modules
     Module *a = new Module("A", "Core A");
@@ -25,14 +25,14 @@ int main()
     root->addChild(c);
 
     std::cout << "=== INSTALL ROOT ===\n";
-    // bool ok = installer.install(root, tx);
-    bool ok = root->install(tx);
+    bool ok = installer.install(root, tx);
+    // bool ok = root->install(tx);
 
     std::cout << "\nInstall result: " << (ok ? "SUCCESS" : "FAIL") << "\n";
 
     std::cout << "\n=== SECOND INSTALL (should handle duplicates) ===\n";
-    // installer.install(root, tx);
-    bool ok2 = root->install(tx);
+    installer.install(root, tx);
+    // bool ok2 = root->install(tx);
 
     std::cout << "\n=== UNINSTALL ROOT ===\n";
     root->uninstall();
