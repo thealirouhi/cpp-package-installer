@@ -109,6 +109,7 @@ void InstallationEngine::install(const std::string& id)
     }
 
     TransactionContext tx;
+    comp->setExplicitlyInstalled(true);
     comp->install(tx);
 }
 
@@ -146,27 +147,30 @@ void InstallationEngine::uninstall(const std::string& id)
 
 void InstallationEngine::installAll()
 {
-    TransactionContext tx;
-
     for (auto* comp : allComponents)
     {
-        comp->install(tx);
+        if (comp->getState() != ComponentState::INSTALLED)
+        {
+            TransactionContext tx;
+            comp->setExplicitlyInstalled(true);
+            comp->install(tx);
+        }
     }
 }
 
 void InstallationEngine::uninstallAll()
 {
-    bool anyInstalled = false;
+    bool anyActive = false;
     for (auto* c : allComponents)
     {
-        if (c->getState() == ComponentState::INSTALLED)
+        if (c->getState() != ComponentState::PENDING)
         {
-            anyInstalled = true;
+            anyActive = true;
             break;
         }
     }
 
-    if (!anyInstalled)
+    if (!anyActive)
     {
         std::cout << "ERROR: No installed components to uninstall\n";
         return;
@@ -174,7 +178,10 @@ void InstallationEngine::uninstallAll()
 
     for (auto it = allComponents.rbegin(); it != allComponents.rend(); ++it)
     {
-        (*it)->uninstall();
+        if ((*it)->getState() != ComponentState::PENDING)
+        {
+            (*it)->forcePending();
+        }
     }
 }
 
@@ -185,6 +192,12 @@ void InstallationEngine::mockFail(const std::string& id)
     if (!comp)
     {
         std::cout << "ERROR: Component " << id << " does not exist\n";
+        return;
+    }
+
+    if (comp->getState() == ComponentState::INSTALLED)
+    {
+        std::cout << "ERROR: Component " << id << " is already installed\n";
         return;
     }
 

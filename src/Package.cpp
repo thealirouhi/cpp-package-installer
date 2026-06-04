@@ -75,10 +75,14 @@ bool Package::install(TransactionContext& tx)
 
         if (!ok)
         {
-            // rollback everything done in this transaction
             for (int i = (int)tx.stateChangedNodes.size() - 1; i >= 0; --i)
             {
                 tx.stateChangedNodes[i]->forcePending();
+            }
+
+            for (auto* node : tx.countIncreasedNodes)
+            {
+                node->decrementParents();
             }
 
             tx.stateChangedNodes.clear();
@@ -87,6 +91,9 @@ bool Package::install(TransactionContext& tx)
             setState(ComponentState::FAILED);
             return false;
         }
+
+        child->incrementParents();
+        tx.countIncreasedNodes.push_back(child);
     }
 
     // 4. success → mark installed
@@ -100,6 +107,21 @@ bool Package::install(TransactionContext& tx)
 
 void Package::uninstall()
 {
-    // Only mark itself pending
+    if (getState() == ComponentState::PENDING)
+    {
+        return;
+    }
+
     setState(ComponentState::PENDING);
+
+    for (int i = (int)children.size() - 1; i >= 0; --i)
+    {
+        Installable* child = children[i];
+        child->decrementParents();
+
+        if (child->getInstalledParentsCount() == 0 && !child->isExplicitlyInstalled())
+        {
+            child->uninstall();
+        }
+    }
 }
