@@ -23,3 +23,36 @@ void InstallationEngine::addPackage(const std::string& id, const std::string& ti
     allComponents.push_back(p);
 }
 
+#include <iostream>
+
+Installable* InstallationEngine::getComponent(const std::string& id)
+{
+    for (auto* c : allComponents)
+    {
+        if (c->getId() == id)
+        {
+            return c;
+        }
+    }
+
+    return nullptr;
+}
+
+void InstallationEngine::attach(const std::string& parentId, const std::string& childId)
+{
+    Installable* parent = getComponent(parentId);
+    Installable* child  = getComponent(childId);
+
+    if (!parent || !child)
+    {
+        return;
+    }
+
+    if (!parent->isPackage())
+    {
+        return;
+    }
+
+    Package* pkg = static_cast<Package*>(parent);
+    pkg->addChild(child);
+}
