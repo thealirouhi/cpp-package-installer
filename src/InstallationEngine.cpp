@@ -100,3 +100,29 @@ void InstallationEngine::uninstallAll()
         (*it)->uninstall();
     }
 }
+void InstallationEngine::mockFail(const std::string& id)
+{
+    Installable* comp = getComponent(id);
+
+    if (!comp)
+    {
+        std::cout << "ERROR: Invalid command\n";
+        return;
+    }
+
+    comp->setMockFail(true);
+}
+
+void InstallationEngine::resolve(const std::string& id)
+{
+    Installable* comp = getComponent(id);
+
+    if (!comp)
+    {
+        std::cout << "ERROR: Invalid command\n";
+        return;
+    }
+
+    comp->setMockFail(false);
+}
+
